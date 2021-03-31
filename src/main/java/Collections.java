@@ -20,6 +20,7 @@ public class Collections {
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
         System.out.println("请输入一个int数据:");
+        System.out.println("哈哈哈");
         int N=scan.nextInt();
       int  a= getMaxSize(N);
       int cost=0;
